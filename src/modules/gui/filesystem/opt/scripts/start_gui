@@ -4,7 +4,7 @@
 DISABLE_POWER_MANAGEMENT=yes
 
 # Rotate screen if needed, see 'xrandr -h' for options.
-DISPLAY_ORIENTATION=left
+DISPLAY_ORIENTATION=right
 
 if [[ "${DISPLAY_ORIENTATION}" != 'normal' ]];
 then
